@@ -52,7 +52,7 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/IndoHaxSec/IHS-DDOS-PACK1L7.git
+git clone https://github.com/INDOHAXSEC/IHS-DDOS_PACK1L7
 
 cd IHS-DDOS-PACK1L7
 
