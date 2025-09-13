@@ -2,6 +2,8 @@
 
 IHS-DDOS PACK1L7
 
+PYTHON VERSION SUPPORT: Python 3.13.1
+
 Modified by FIDZXPLOIT from INDOHAXSEC Team
 
 About:
